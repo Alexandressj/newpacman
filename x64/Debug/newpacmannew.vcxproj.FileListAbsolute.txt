@@ -1,0 +1,2 @@
+C:\Users\pipoq\source\repos\newpacmannew\x64\Debug\newpacmannew.exe
+C:\Users\pipoq\source\repos\newpacman\x64\Debug\newpacmannew.exe
